@@ -1,0 +1,162 @@
+.profile-img img{
+    width: 25%;
+    border-radius: 50%;
+    margin: auto;
+    margin-top: 10px;
+}
+.navbar{
+    padding: 0  !important;
+}
+.container-fluid{
+    background-color: #4D636F;
+    padding-left: 0 !important;
+}
+.nav-link:hover{
+background-color: white;
+
+}
+.navbar-brand{
+    background-color: #3A4B53;
+    color: #fff !important;
+    padding: 8px 24px !important;
+    /* width: 10%;
+    margin: 0; */
+
+}
+.navbar-brand:hover{
+    background-color: #cccccc;
+}
+
+hr{
+    border: 0;
+    border-top: 1px solid #eee;
+    margin: 20px 0;
+}
+.awesome {
+    padding: 5px;
+    color: white;
+}
+.fa-solid:hover{
+    color: black;
+}
+
+.login{
+width: 30px;
+border-radius: 50%;
+}
+.login:hover{
+    background-color: white;
+    color: black;
+}
+.left-col{
+    background-color: #7D97A5;
+    color: white;
+}
+.fa{
+    color: white;
+}
+.one{
+    background-color: #627e8d;
+
+}
+.two
+{
+    background-color: #94aab6;
+
+}
+.three{
+   background-color: #cccccc;
+}
+.attention{
+    background-color: #3A4B53;
+}
+.fa-xmark{
+    position: absolute;
+    right: 0;
+    background-color: #627e8d;
+    padding: 10px 12px;
+    top: 0;
+
+
+}
+.post-temp{
+    margin: 15px 15px;
+    color:  #666;
+}
+.john-deo{
+    left: 3%;
+    position: relative;
+}
+.john-deo{
+    font-size: 22px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.john-deo img{
+    width: 10%;
+    margin-right: 30px;
+    border-radius: 50%;
+    margin-top: 15px;
+}
+.jon-img img{
+    width: 100%;
+    height: 100%;
+}
+
+.angie-head{
+    margin-left: 12px;
+}
+.foot-header{
+    background-color: #435761;
+    height: 60px;
+    color: white;
+}
+.foot-header h5{
+    margin-left: 20px;
+    
+}
+.foot-para{
+    background-color: #303E45;
+    height: 60px;
+    color: white;
+}
+.foot-para p{
+    margin-left:20px ;
+    font-size: 20px;
+}
+.forst-card{
+    text-align: center;
+    padding: 30px;
+}
+.forst-card span{
+font-size: 18px;
+margin-bottom: 13px;
+}
+.forst-card .card-body  .btn{
+    background-color: #cccccc;
+    padding: 9px 50px;
+    
+}
+.friend-card{
+    text-align: center;
+}
+.friend-card img{
+    width: 35%;
+    margin: auto;
+}
+.friend-card span{
+    margin-bottom:12px ;
+}
+.friend-card .btn-checked{
+    background-color: #93CE95;
+    padding: 8px 40px;
+}
+.friend-card .btn-xmark{
+    background-color: #F88D86;
+    padding: 8px 40px;
+}
+.ad-card{
+    text-align: center;
+}
+.ad-card h5{
+    margin-top:30px ;
+}
